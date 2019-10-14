@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: b225d702fa3f19743a9a394fe572c209
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BodyPart1
+    100002: BodyPart2
+    100004: Claw3
+    100006: Claw4
+    100008: //RootNode
+    100010: Headmid
+    100012: imagePlane1
+    100014: imagePlane2
+    100016: imagePlane3
+    100018: Jointa
+    100020: LowerJawGroup
+    100022: Mouth1
+    100024: Mouth2
+    100026: Neck
+    100028: pCylinder2
+    100030: pCylinder5
+    100032: polySurface17
+    100034: Spike1
+    100036: Spike11
+    100038: Spike16
+    100040: Spike16 1
+    100042: Spike16 2
+    100044: Spike18
+    100046: Spike18 1
+    100048: Spike20
+    100050: Spike4
+    100052: Spike4 1
+    100054: Spike4 2
+    100056: Spike4 3
+    100058: Spike4 4
+    100060: Spike4 5
+    100062: Spike4 6
+    100064: Spike5
+    100066: transform64
+    100068: transform65
+    100070: transform66
+    100072: UpperJawGroup
+    100074: WholeUpperJaw
+    400000: BodyPart1
+    400002: BodyPart2
+    400004: Claw3
+    400006: Claw4
+    400008: //RootNode
+    400010: Headmid
+    400012: imagePlane1
+    400014: imagePlane2
+    400016: imagePlane3
+    400018: Jointa
+    400020: LowerJawGroup
+    400022: Mouth1
+    400024: Mouth2
+    400026: Neck
+    400028: pCylinder2
+    400030: pCylinder5
+    400032: polySurface17
+    400034: Spike1
+    400036: Spike11
+    400038: Spike16
+    400040: Spike16 1
+    400042: Spike16 2
+    400044: Spike18
+    400046: Spike18 1
+    400048: Spike20
+    400050: Spike4
+    400052: Spike4 1
+    400054: Spike4 2
+    400056: Spike4 3
+    400058: Spike4 4
+    400060: Spike4 5
+    400062: Spike4 6
+    400064: Spike5
+    400066: transform64
+    400068: transform65
+    400070: transform66
+    400072: UpperJawGroup
+    400074: WholeUpperJaw
+    2100000: HeadBottom
+    2100002: lambert1
+    2100004: HeadTop
+    2100006: Scales
+    2100008: Body
+    2100010: CLaw
+    2100012: Body2
+    2100014: MidHead
+    2100016: Joints
+    2100018: Neck1
+    2100020: Mouth
+    2300000: BodyPart1
+    2300002: BodyPart2
+    2300004: Headmid
+    2300006: Jointa
+    2300008: Neck
+    2300010: polySurface17
+    3300000: BodyPart1
+    3300002: BodyPart2
+    3300004: Headmid
+    3300006: Jointa
+    3300008: Neck
+    3300010: polySurface17
+    4300000: LowerJawGroup
+    4300002: polySurface17
+    4300004: UpperJawGroup
+    4300006: Spike4
+    4300008: Spike4
+    4300010: Spike11
+    4300012: BodyPart1
+    4300014: Spike18
+    4300016: pCylinder2
+    4300018: pCylinder5
+    4300020: Spike16
+    4300022: Spike20
+    4300024: BodyPart2
+    4300026: Spike18
+    4300028: Spike16
+    4300030: Claw3
+    4300032: Claw4
+    4300034: Headmid
+    4300036: Jointa
+    4300038: Neck
+    4300040: Mouth1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Claw3
+    13700002: Claw4
+    13700004: LowerJawGroup
+    13700006: Mouth1
+    13700008: pCylinder2
+    13700010: pCylinder5
+    13700012: Spike11
+    13700014: Spike16 1
+    13700016: Spike16 2
+    13700018: Spike18
+    13700020: Spike18 1
+    13700022: Spike20
+    13700024: Spike4 5
+    13700026: Spike4 6
+    13700028: UpperJawGroup
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: db29d0059cca18341b02aca1af4e6062
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BodyPart10
+    100002: BodyPart11
+    100004: BodyPart3
+    100006: BodyPart4
+    100008: BodyPart5
+    100010: BodyPart6
+    100012: BodyPart7
+    100014: BodyPart8
+    100016: BodyPart9
+    100018: Claw3
+    100020: Claw3 1
+    100022: Claw3 2
+    100024: Claw3 3
+    100026: Claw3 4
+    100028: Claw3 5
+    100030: Claw3 6
+    100032: Claw3 7
+    100034: Claw4
+    100036: Claw4 1
+    100038: Claw4 2
+    100040: Claw4 3
+    100042: Claw4 4
+    100044: Claw4 5
+    100046: Claw4 6
+    100048: Claw4 7
+    100050: Claw7
+    100052: Claw8
+    100054: imagePlane1
+    100056: Joint1
+    100058: Joint2
+    100060: JOint3
+    100062: Joint4
+    100064: Joint5
+    100066: Joint6
+    100068: Spike22
+    100070: Spike22 1
+    100072: Spike22 2
+    100074: Spike22 3
+    100076: Spike22 4
+    100078: Spike22 5
+    100080: Spike22 6
+    100082: Spike22 7
+    100084: Spike22 8
+    100086: Spike24
+    100088: Spike24 1
+    100090: Spike24 2
+    100092: Spike24 3
+    100094: Spike24 4
+    100096: Spike24 5
+    100098: Spike24 6
+    100100: Spike24 7
+    100102: Spike24 8
+    100104: Tail
+    100106: //RootNode
+    400000: BodyPart10
+    400002: BodyPart11
+    400004: BodyPart3
+    400006: BodyPart4
+    400008: BodyPart5
+    400010: BodyPart6
+    400012: BodyPart7
+    400014: BodyPart8
+    400016: BodyPart9
+    400018: Claw3
+    400020: Claw3 1
+    400022: Claw3 2
+    400024: Claw3 3
+    400026: Claw3 4
+    400028: Claw3 5
+    400030: Claw3 6
+    400032: Claw3 7
+    400034: Claw4
+    400036: Claw4 1
+    400038: Claw4 2
+    400040: Claw4 3
+    400042: Claw4 4
+    400044: Claw4 5
+    400046: Claw4 6
+    400048: Claw4 7
+    400050: Claw7
+    400052: Claw8
+    400054: imagePlane1
+    400056: Joint1
+    400058: Joint2
+    400060: JOint3
+    400062: Joint4
+    400064: Joint5
+    400066: Joint6
+    400068: Spike22
+    400070: Spike22 1
+    400072: Spike22 2
+    400074: Spike22 3
+    400076: Spike22 4
+    400078: Spike22 5
+    400080: Spike22 6
+    400082: Spike22 7
+    400084: Spike22 8
+    400086: Spike24
+    400088: Spike24 1
+    400090: Spike24 2
+    400092: Spike24 3
+    400094: Spike24 4
+    400096: Spike24 5
+    400098: Spike24 6
+    400100: Spike24 7
+    400102: Spike24 8
+    400104: Tail
+    400106: //RootNode
+    2100000: Body2
+    2100002: Scales
+    2100004: CLaw
+    2100006: EndPiece
+    2100008: TailJoints
+    2300000: BodyPart10
+    2300002: BodyPart11
+    2300004: BodyPart3
+    2300006: BodyPart4
+    2300008: BodyPart5
+    2300010: BodyPart6
+    2300012: BodyPart7
+    2300014: BodyPart8
+    2300016: BodyPart9
+    2300018: Claw3
+    2300020: Claw3 1
+    2300022: Claw4
+    2300024: Claw4 1
+    2300026: Joint1
+    2300028: Joint2
+    2300030: JOint3
+    2300032: Joint4
+    2300034: Joint5
+    2300036: Joint6
+    2300038: Spike22
+    2300040: Spike22 1
+    2300042: Spike24
+    2300044: Spike24 1
+    2300046: Tail
+    3300000: BodyPart10
+    3300002: BodyPart11
+    3300004: BodyPart3
+    3300006: BodyPart4
+    3300008: BodyPart5
+    3300010: BodyPart6
+    3300012: BodyPart7
+    3300014: BodyPart8
+    3300016: BodyPart9
+    3300018: Claw3
+    3300020: Claw3 1
+    3300022: Claw4
+    3300024: Claw4 1
+    3300026: Joint1
+    3300028: Joint2
+    3300030: JOint3
+    3300032: Joint4
+    3300034: Joint5
+    3300036: Joint6
+    3300038: Spike22
+    3300040: Spike22 1
+    3300042: Spike24
+    3300044: Spike24 1
+    3300046: Tail
+    4300000: BodyPart3
+    4300002: Spike22
+    4300004: Spike24
+    4300006: BodyPart4
+    4300008: Spike22
+    4300010: Spike24
+    4300012: Claw3
+    4300014: Claw4
+    4300016: Claw7
+    4300018: Claw8
+    4300020: BodyPart5
+    4300022: Spike22
+    4300024: Spike24
+    4300026: Claw3
+    4300028: Claw4
+    4300030: BodyPart6
+    4300032: Spike22
+    4300034: Spike24
+    4300036: Claw3
+    4300038: Claw4
+    4300040: BodyPart7
+    4300042: Spike22
+    4300044: Spike24
+    4300046: Claw3
+    4300048: Claw4
+    4300050: BodyPart8
+    4300052: Spike22
+    4300054: Spike24
+    4300056: Claw3
+    4300058: Claw4
+    4300060: BodyPart9
+    4300062: Spike22
+    4300064: Spike24
+    4300066: Claw4
+    4300068: Claw3
+    4300070: Tail
+    4300072: Joint1
+    4300074: Joint2
+    4300076: JOint3
+    4300078: Joint4
+    4300080: Joint5
+    4300082: Joint6
+    4300084: BodyPart10
+    4300086: Spike22
+    4300088: Spike24
+    4300090: Claw3
+    4300092: Claw4
+    4300094: BodyPart11
+    4300096: Spike22
+    4300098: Spike24
+    4300100: Claw3
+    4300102: Claw4
+    9500000: //RootNode
+    13700000: Claw3 2
+    13700002: Claw3 3
+    13700004: Claw3 4
+    13700006: Claw3 5
+    13700008: Claw3 6
+    13700010: Claw3 7
+    13700012: Claw4 2
+    13700014: Claw4 3
+    13700016: Claw4 4
+    13700018: Claw4 5
+    13700020: Claw4 6
+    13700022: Claw4 7
+    13700024: Claw7
+    13700026: Claw8
+    13700028: Spike22 2
+    13700030: Spike22 3
+    13700032: Spike22 4
+    13700034: Spike22 5
+    13700036: Spike22 6
+    13700038: Spike22 7
+    13700040: Spike22 8
+    13700042: Spike24 2
+    13700044: Spike24 3
+    13700046: Spike24 4
+    13700048: Spike24 5
+    13700050: Spike24 6
+    13700052: Spike24 7
+    13700054: Spike24 8
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

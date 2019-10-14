@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: ba47af5aa5107f84ba707e4e2f7be332
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bottom
+    100004: Ceiling3
+    100006: Ceiling4
+    100008: Ceiling5
+    100010: Ceiling6
+    100012: front1
+    100014: HorizontalSupport1
+    100016: MidDomeFrame2
+    100018: MidDomeFrame3
+    100020: MidDomeFrame4
+    100022: MidDomeFrame5
+    100024: Pillar
+    100026: Pillar1
+    100028: Pillar2
+    100030: Pillar3
+    100032: Pillar4
+    100034: polySurface11
+    100036: polySurface41
+    100038: polySurface48
+    100040: polySurface5
+    100042: polySurface53
+    100044: polySurface54
+    100046: polySurface55
+    100048: polySurface58
+    100050: polySurface61
+    100052: polySurface62
+    100054: polySurface64
+    100056: polySurface72
+    100058: polySurface73
+    100060: polySurface74
+    100062: polySurface75
+    100064: polySurface76
+    100066: polySurface77
+    100068: polySurface78
+    100070: polySurface79
+    100072: polySurface92
+    100074: polySurface92 1
+    100076: polySurface92 2
+    100078: polySurface92 3
+    100080: polySurface92 4
+    100082: polySurface93
+    100084: top1
+    100086: transform100
+    100088: transform101
+    100090: transform102
+    100092: transform103
+    100094: transform104
+    100096: transform105
+    100098: transform61
+    100100: transform88
+    100102: transform89
+    100104: transform90
+    100106: transform91
+    100108: transform92
+    100110: transform93
+    100112: transform94
+    100114: transform95
+    100116: transform96
+    100118: transform97
+    100120: transform98
+    100122: transform99
+    100124: Window2
+    100126: Window3
+    100128: Window4
+    100130: Window5
+    400000: //RootNode
+    400002: bottom
+    400004: Ceiling3
+    400006: Ceiling4
+    400008: Ceiling5
+    400010: Ceiling6
+    400012: front1
+    400014: HorizontalSupport1
+    400016: MidDomeFrame2
+    400018: MidDomeFrame3
+    400020: MidDomeFrame4
+    400022: MidDomeFrame5
+    400024: Pillar
+    400026: Pillar1
+    400028: Pillar2
+    400030: Pillar3
+    400032: Pillar4
+    400034: polySurface11
+    400036: polySurface41
+    400038: polySurface48
+    400040: polySurface5
+    400042: polySurface53
+    400044: polySurface54
+    400046: polySurface55
+    400048: polySurface58
+    400050: polySurface61
+    400052: polySurface62
+    400054: polySurface64
+    400056: polySurface72
+    400058: polySurface73
+    400060: polySurface74
+    400062: polySurface75
+    400064: polySurface76
+    400066: polySurface77
+    400068: polySurface78
+    400070: polySurface79
+    400072: polySurface92
+    400074: polySurface92 1
+    400076: polySurface92 2
+    400078: polySurface92 3
+    400080: polySurface92 4
+    400082: polySurface93
+    400084: top1
+    400086: transform100
+    400088: transform101
+    400090: transform102
+    400092: transform103
+    400094: transform104
+    400096: transform105
+    400098: transform61
+    400100: transform88
+    400102: transform89
+    400104: transform90
+    400106: transform91
+    400108: transform92
+    400110: transform93
+    400112: transform94
+    400114: transform95
+    400116: transform96
+    400118: transform97
+    400120: transform98
+    400122: transform99
+    400124: Window2
+    400126: Window3
+    400128: Window4
+    400130: Window5
+    2000000: bottom
+    2000002: front1
+    2000004: top1
+    2100000: Pillars
+    2100002: Ceiling1
+    2100004: Glass
+    2100006: WindowFrameMT
+    2300000: Ceiling3
+    2300002: Ceiling4
+    2300004: Ceiling5
+    2300006: Ceiling6
+    2300008: MidDomeFrame2
+    2300010: MidDomeFrame3
+    2300012: MidDomeFrame4
+    2300014: MidDomeFrame5
+    2300016: polySurface92 1
+    2300018: polySurface92 2
+    2300020: polySurface92 3
+    2300022: polySurface92 4
+    2300024: polySurface93
+    2300026: Window2
+    2300028: Window3
+    2300030: Window4
+    2300032: Window5
+    3300000: Ceiling3
+    3300002: Ceiling4
+    3300004: Ceiling5
+    3300006: Ceiling6
+    3300008: MidDomeFrame2
+    3300010: MidDomeFrame3
+    3300012: MidDomeFrame4
+    3300014: MidDomeFrame5
+    3300016: polySurface92 1
+    3300018: polySurface92 2
+    3300020: polySurface92 3
+    3300022: polySurface92 4
+    3300024: polySurface93
+    3300026: Window2
+    3300028: Window3
+    3300030: Window4
+    3300032: Window5
+    4300000: polySurface92
+    4300002: polySurface93
+    4300004: polySurface92
+    4300006: polySurface92
+    4300008: polySurface92
+    4300010: Ceiling3
+    4300012: Ceiling4
+    4300014: Ceiling5
+    4300016: Ceiling6
+    4300018: Window2
+    4300020: MidDomeFrame2
+    4300022: Window3
+    4300024: MidDomeFrame3
+    4300026: Window4
+    4300028: MidDomeFrame4
+    4300030: MidDomeFrame5
+    4300032: Window5
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
