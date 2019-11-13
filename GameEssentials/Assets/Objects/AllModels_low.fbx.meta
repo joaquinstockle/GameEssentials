@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: 73a60807754da6744a1e45ce40a59acd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Background_low
+    100004: Beam_low
+    100006: Block_low
+    100008: BodyPart10_low
+    100010: BodyPart11_low
+    100012: BodyPart1_low
+    100014: BodyPart3_low
+    100016: BodyPart4_low
+    100018: BodyPart5_low
+    100020: BodyPart6_low
+    100022: BodyPart7_low
+    100024: BodyPart8_low
+    100026: BodyPart9_low
+    100028: Ceiling3_low
+    100030: Ceiling4_low
+    100032: Ceiling5_low
+    100034: Ceiling6_low
+    100036: Claw3
+    100038: Claw3 1
+    100040: Claw3 2
+    100042: Claw3 3
+    100044: Claw3 4
+    100046: Claw3 5
+    100048: Claw3 6
+    100050: Claw3_low
+    100052: Claw4
+    100054: Claw4 1
+    100056: Claw4 2
+    100058: Claw4 3
+    100060: Claw4 4
+    100062: Claw4_low
+    100064: Claw59_low
+    100066: Claw60_low
+    100068: Claw7_low
+    100070: Claw8_low
+    100072: Foreground_low
+    100074: Gear1_low
+    100076: Gear2_low
+    100078: Gear3_low
+    100080: Gear4_low
+    100082: HangingThing_low
+    100084: Headmid_low
+    100086: Joint1_low
+    100088: Joint2_low
+    100090: JOint3_low
+    100092: Joint4_low
+    100094: Joint5_low
+    100096: Joint6_low
+    100098: Jointa_low
+    100100: LowerJawGroup_low
+    100102: Machine_low
+    100104: MidDomeFrame2_low
+    100106: MidDomeFrame3_low
+    100108: MidDomeFrame4_low
+    100110: MidDomeFrame5_low
+    100112: Midground_low
+    100114: Mouth1_low
+    100116: Neck_low
+    100118: pCylinder2_low
+    100120: pCylinder5_low
+    100122: Pillar1_low
+    100124: Pillar2_low
+    100126: Pillar3_low
+    100128: Pillar4_low
+    100130: Pillar5_low
+    100132: Platforms1_low
+    100134: Platforms2_low
+    100136: Rayman_low
+    100138: Spike11_low
+    100140: Spike121_low
+    100142: Spike122_low
+    100144: Spike123_low
+    100146: Spike124_low
+    100148: Spike125_low
+    100150: Spike16_low
+    100152: Spike18_low
+    100154: Spike20_low
+    100156: Spike22
+    100158: Spike22 1
+    100160: Spike22 2
+    100162: Spike22 3
+    100164: Spike22 4
+    100166: Spike22_low
+    100168: Spike24
+    100170: Spike24 1
+    100172: Spike24 2
+    100174: Spike24 3
+    100176: Spike24 4
+    100178: Spike24 5
+    100180: Spike24 6
+    100182: Spike24_low
+    100184: Spike4_low
+    100186: Tail_low
+    100188: Tank1_low
+    100190: Tank2_low
+    100192: Tank3_low
+    100194: UpperJawGroup_low
+    100196: Window2_low
+    100198: Window3_low
+    100200: Window4_low
+    100202: Window5_low
+    100204: Wire1_low
+    100206: Wire2_low
+    100208: Wire3_low
+    100210: Wire4_low
+    400000: //RootNode
+    400002: Background_low
+    400004: Beam_low
+    400006: Block_low
+    400008: BodyPart10_low
+    400010: BodyPart11_low
+    400012: BodyPart1_low
+    400014: BodyPart3_low
+    400016: BodyPart4_low
+    400018: BodyPart5_low
+    400020: BodyPart6_low
+    400022: BodyPart7_low
+    400024: BodyPart8_low
+    400026: BodyPart9_low
+    400028: Ceiling3_low
+    400030: Ceiling4_low
+    400032: Ceiling5_low
+    400034: Ceiling6_low
+    400036: Claw3
+    400038: Claw3 1
+    400040: Claw3 2
+    400042: Claw3 3
+    400044: Claw3 4
+    400046: Claw3 5
+    400048: Claw3 6
+    400050: Claw3_low
+    400052: Claw4
+    400054: Claw4 1
+    400056: Claw4 2
+    400058: Claw4 3
+    400060: Claw4 4
+    400062: Claw4_low
+    400064: Claw59_low
+    400066: Claw60_low
+    400068: Claw7_low
+    400070: Claw8_low
+    400072: Foreground_low
+    400074: Gear1_low
+    400076: Gear2_low
+    400078: Gear3_low
+    400080: Gear4_low
+    400082: HangingThing_low
+    400084: Headmid_low
+    400086: Joint1_low
+    400088: Joint2_low
+    400090: JOint3_low
+    400092: Joint4_low
+    400094: Joint5_low
+    400096: Joint6_low
+    400098: Jointa_low
+    400100: LowerJawGroup_low
+    400102: Machine_low
+    400104: MidDomeFrame2_low
+    400106: MidDomeFrame3_low
+    400108: MidDomeFrame4_low
+    400110: MidDomeFrame5_low
+    400112: Midground_low
+    400114: Mouth1_low
+    400116: Neck_low
+    400118: pCylinder2_low
+    400120: pCylinder5_low
+    400122: Pillar1_low
+    400124: Pillar2_low
+    400126: Pillar3_low
+    400128: Pillar4_low
+    400130: Pillar5_low
+    400132: Platforms1_low
+    400134: Platforms2_low
+    400136: Rayman_low
+    400138: Spike11_low
+    400140: Spike121_low
+    400142: Spike122_low
+    400144: Spike123_low
+    400146: Spike124_low
+    400148: Spike125_low
+    400150: Spike16_low
+    400152: Spike18_low
+    400154: Spike20_low
+    400156: Spike22
+    400158: Spike22 1
+    400160: Spike22 2
+    400162: Spike22 3
+    400164: Spike22 4
+    400166: Spike22_low
+    400168: Spike24
+    400170: Spike24 1
+    400172: Spike24 2
+    400174: Spike24 3
+    400176: Spike24 4
+    400178: Spike24 5
+    400180: Spike24 6
+    400182: Spike24_low
+    400184: Spike4_low
+    400186: Tail_low
+    400188: Tank1_low
+    400190: Tank2_low
+    400192: Tank3_low
+    400194: UpperJawGroup_low
+    400196: Window2_low
+    400198: Window3_low
+    400200: Window4_low
+    400202: Window5_low
+    400204: Wire1_low
+    400206: Wire2_low
+    400208: Wire3_low
+    400210: Wire4_low
+    2100000: FG
+    2100002: MG
+    2100004: BG
+    2300000: Beam_low
+    2300002: Block_low
+    2300004: BodyPart10_low
+    2300006: BodyPart11_low
+    2300008: BodyPart1_low
+    2300010: BodyPart3_low
+    2300012: BodyPart4_low
+    2300014: BodyPart5_low
+    2300016: BodyPart6_low
+    2300018: BodyPart7_low
+    2300020: BodyPart8_low
+    2300022: BodyPart9_low
+    2300024: Ceiling3_low
+    2300026: Ceiling4_low
+    2300028: Ceiling5_low
+    2300030: Ceiling6_low
+    2300032: Claw3
+    2300034: Claw3 1
+    2300036: Claw4
+    2300038: Claw4 1
+    2300040: Gear1_low
+    2300042: Gear2_low
+    2300044: Gear3_low
+    2300046: Gear4_low
+    2300048: HangingThing_low
+    2300050: Headmid_low
+    2300052: Joint1_low
+    2300054: Joint2_low
+    2300056: JOint3_low
+    2300058: Joint4_low
+    2300060: Joint5_low
+    2300062: Joint6_low
+    2300064: Jointa_low
+    2300066: Machine_low
+    2300068: MidDomeFrame2_low
+    2300070: MidDomeFrame3_low
+    2300072: MidDomeFrame4_low
+    2300074: MidDomeFrame5_low
+    2300076: Neck_low
+    2300078: Pillar1_low
+    2300080: Pillar2_low
+    2300082: Pillar3_low
+    2300084: Pillar4_low
+    2300086: Pillar5_low
+    2300088: Platforms1_low
+    2300090: Platforms2_low
+    2300092: Rayman_low
+    2300094: Spike22
+    2300096: Spike22 1
+    2300098: Spike24
+    2300100: Spike24 1
+    2300102: Tail_low
+    2300104: Tank1_low
+    2300106: Tank2_low
+    2300108: Tank3_low
+    2300110: Window2_low
+    2300112: Window3_low
+    2300114: Window4_low
+    2300116: Window5_low
+    2300118: Wire1_low
+    2300120: Wire2_low
+    2300122: Wire3_low
+    2300124: Wire4_low
+    3300000: Beam_low
+    3300002: Block_low
+    3300004: BodyPart10_low
+    3300006: BodyPart11_low
+    3300008: BodyPart1_low
+    3300010: BodyPart3_low
+    3300012: BodyPart4_low
+    3300014: BodyPart5_low
+    3300016: BodyPart6_low
+    3300018: BodyPart7_low
+    3300020: BodyPart8_low
+    3300022: BodyPart9_low
+    3300024: Ceiling3_low
+    3300026: Ceiling4_low
+    3300028: Ceiling5_low
+    3300030: Ceiling6_low
+    3300032: Claw3
+    3300034: Claw3 1
+    3300036: Claw4
+    3300038: Claw4 1
+    3300040: Gear1_low
+    3300042: Gear2_low
+    3300044: Gear3_low
+    3300046: Gear4_low
+    3300048: HangingThing_low
+    3300050: Headmid_low
+    3300052: Joint1_low
+    3300054: Joint2_low
+    3300056: JOint3_low
+    3300058: Joint4_low
+    3300060: Joint5_low
+    3300062: Joint6_low
+    3300064: Jointa_low
+    3300066: Machine_low
+    3300068: MidDomeFrame2_low
+    3300070: MidDomeFrame3_low
+    3300072: MidDomeFrame4_low
+    3300074: MidDomeFrame5_low
+    3300076: Neck_low
+    3300078: Pillar1_low
+    3300080: Pillar2_low
+    3300082: Pillar3_low
+    3300084: Pillar4_low
+    3300086: Pillar5_low
+    3300088: Platforms1_low
+    3300090: Platforms2_low
+    3300092: Rayman_low
+    3300094: Spike22
+    3300096: Spike22 1
+    3300098: Spike24
+    3300100: Spike24 1
+    3300102: Tail_low
+    3300104: Tank1_low
+    3300106: Tank2_low
+    3300108: Tank3_low
+    3300110: Window2_low
+    3300112: Window3_low
+    3300114: Window4_low
+    3300116: Window5_low
+    3300118: Wire1_low
+    3300120: Wire2_low
+    3300122: Wire3_low
+    3300124: Wire4_low
+    4300000: LowerJawGroup_low
+    4300002: pCylinder5_low
+    4300004: pCylinder2_low
+    4300006: Jointa_low
+    4300008: Headmid_low
+    4300010: Mouth1_low
+    4300012: Neck_low
+    4300014: Spike4_low
+    4300016: Spike11_low
+    4300018: Spike121_low
+    4300020: Spike20_low
+    4300022: Spike16_low
+    4300024: Spike18_low
+    4300026: BodyPart1_low
+    4300028: Platforms2_low
+    4300030: Platforms1_low
+    4300032: Rayman_low
+    4300034: UpperJawGroup_low
+    4300036: Gear3_low
+    4300038: Gear2_low
+    4300040: Gear1_low
+    4300042: Gear4_low
+    4300044: Wire2_low
+    4300046: HangingThing_low
+    4300048: Beam_low
+    4300050: Wire1_low
+    4300052: Tank1_low
+    4300054: Tank3_low
+    4300056: Spike22_low
+    4300058: BodyPart3_low
+    4300060: Machine_low
+    4300062: JOint3_low
+    4300064: Claw7_low
+    4300066: Claw3_low
+    4300068: Claw4_low
+    4300070: Spike24_low
+    4300072: Spike122_low
+    4300074: BodyPart9_low
+    4300076: Spike123_low
+    4300078: Claw8_low
+    4300080: BodyPart5_low
+    4300082: Spike24
+    4300084: Claw3
+    4300086: Claw59_low
+    4300088: Joint2_low
+    4300090: Joint1_low
+    4300092: Tail_low
+    4300094: Claw60_low
+    4300096: Spike124_low
+    4300098: BodyPart4_low
+    4300100: Spike24
+    4300102: Claw3
+    4300104: Spike125_low
+    4300106: BodyPart6_low
+    4300108: Spike22
+    4300110: Spike24
+    4300112: Claw3
+    4300114: Claw4
+    4300116: BodyPart7_low
+    4300118: Spike22
+    4300120: Spike24
+    4300122: Claw3
+    4300124: Claw4
+    4300126: BodyPart8_low
+    4300128: Spike22
+    4300130: Spike24
+    4300132: Claw3
+    4300134: Claw4
+    4300136: Joint6_low
+    4300138: Joint5_low
+    4300140: Joint4_low
+    4300142: BodyPart11_low
+    4300144: Spike22
+    4300146: Spike24
+    4300148: Claw3
+    4300150: Claw4
+    4300152: BodyPart10_low
+    4300154: Spike22
+    4300156: Spike24
+    4300158: Claw3
+    4300160: Claw4
+    4300162: Tank2_low
+    4300164: Wire3_low
+    4300166: Wire4_low
+    4300168: Pillar1_low
+    4300170: Pillar2_low
+    4300172: Pillar3_low
+    4300174: Ceiling3_low
+    4300176: Pillar4_low
+    4300178: Pillar5_low
+    4300180: Ceiling5_low
+    4300182: Ceiling4_low
+    4300184: Window2_low
+    4300186: Ceiling6_low
+    4300188: Window5_low
+    4300190: MidDomeFrame5_low
+    4300192: MidDomeFrame3_low
+    4300194: Window3_low
+    4300196: MidDomeFrame2_low
+    4300198: MidDomeFrame4_low
+    4300200: Window4_low
+    4300202: Block_low
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Claw3 2
+    13700002: Claw3 3
+    13700004: Claw3 4
+    13700006: Claw3 5
+    13700008: Claw3 6
+    13700010: Claw3_low
+    13700012: Claw4 2
+    13700014: Claw4 3
+    13700016: Claw4 4
+    13700018: Claw4_low
+    13700020: Claw59_low
+    13700022: Claw60_low
+    13700024: Claw7_low
+    13700026: Claw8_low
+    13700028: LowerJawGroup_low
+    13700030: Mouth1_low
+    13700032: pCylinder2_low
+    13700034: pCylinder5_low
+    13700036: Spike11_low
+    13700038: Spike121_low
+    13700040: Spike122_low
+    13700042: Spike123_low
+    13700044: Spike124_low
+    13700046: Spike125_low
+    13700048: Spike16_low
+    13700050: Spike18_low
+    13700052: Spike20_low
+    13700054: Spike22 2
+    13700056: Spike22 3
+    13700058: Spike22 4
+    13700060: Spike22_low
+    13700062: Spike24 2
+    13700064: Spike24 3
+    13700066: Spike24 4
+    13700068: Spike24 5
+    13700070: Spike24 6
+    13700072: Spike24_low
+    13700074: Spike4_low
+    13700076: UpperJawGroup_low
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
